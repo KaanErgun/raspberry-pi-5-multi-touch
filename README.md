@@ -23,7 +23,7 @@ This script automates downloading and flashing a custom EEPROM firmware (`pieepr
 1. **Download the script:**
 
    ```bash
-   wget -O flash-eeprom.sh https://your-repository-or-location/flash-eeprom.sh
+   wget -O flash-eeprom.sh https://raw.githubusercontent.com/KaanErgun/raspberry-pi-5-multi-touch/main/flash_mtouch.sh
    chmod +x flash-eeprom.sh
    ```
 
